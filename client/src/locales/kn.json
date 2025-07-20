@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "home": "ಮುಖಪುಟ",
+    "dashboard": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+    "savings": "ಉಳಿತಾಯ",
+    "applyLoan": "ಣವಿಗೆ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ",
+    "loanApprovals": "ಣ ಅನುಮೋದನೆಗಳು",
+    "memberManagement": "ಸದಸ್ಯ ನಿರ್ವಹಣೆ",
+    "groupManagement": "ಗುಂಪು ನಿರ್ವಹಣೆ",
+    "roleManagement": "ಪಾತ್ರ ನಿರ್ವಹಣೆ",
+    "sdgImpact": "SDG ಪ್ರಭಾವ",
+    "createPoll": "ಮತದಾನ ರಚಿಸಿ",
+    "login": "ಲಾಗಿನ್",
+    "logout": "ಲಾಗ್ ಔಟ್",
+    "menu": "ಮೆನು",
+    "sidebarDescription": "ನ್ಯಾವಿಗೇಶನ್ ಪ್ಯಾನೆಲ್"
+  },
+  "login": {
+    "title": "ಸೈನ್ ಇನ್ ಮಾಡಿ",
+    "description": "ದಯವಿಟ್ಟು ನಿಮ್ಮ ಖಾತೆಗೆ ಸೈನ್ ಇನ್ ಮಾಡಿ.",
+    "username": "ಬಳಕೆದಾರರ ಹೆಸರು",
+    "password": "ಗುಪ್ತಪದ",
+    "remember": "ನನ್ನನ್ನು ನೆನಪಿಡಿ",
+    "forgot": "ಪಾಸ್ವರ್ಡ್ ಮರೆತಿರಾ?",
+    "signIn": "ಸೈನ್ ಇನ್",
+    "signingIn": "ಸೈನ್ ಇನ್ ಆಗುತ್ತಿದೆ...",
+    "success": "ಲಾಗಿನ್ ಯಶಸ್ವಿ",
+    "failed": "ಲಾಗಿನ್ ವಿಫಲವಾಗಿದೆ",
+    "welcome": "ಮತ್ತೆ ಸ್ವಾಗತ!",
+    "invalidCredentials": "ಅಮಾನ್ಯ ಬಳಕೆದಾರ ಹೆಸರು ಅಥವಾ ಪಾಸ್ವರ್ಡ್.",
+    "demoText": "ಡೆಮೊ ನಂಬಿಕೆಗಳು (ಪೂರೈಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ)"
+  },
+  "dashboard": {
+    "admin": {
+      "title": "ಅಡ್ಮಿನ್ ವಿಶ್ಲೇಷಣೆ"
+    },
+    "treasurer": {
+      "title": "ಖಜಾಂಚಿ ಫಲಕ"
+    }
+  }
+}

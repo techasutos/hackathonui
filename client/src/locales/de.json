@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "dashboard": "Dashboard",
+    "savings": "Ersparnisse",
+    "applyLoan": "Darlehen beantragen",
+    "loanApprovals": "Darlehensgenehmigungen",
+    "memberManagement": "Mitgliederverwaltung",
+    "groupManagement": "Gruppenverwaltung",
+    "roleManagement": "Rollenverwaltung",
+    "sdgImpact": "SDG-Auswirkungen",
+    "createPoll": "Umfrage erstellen",
+    "login": "Anmelden",
+    "logout": "Abmelden",
+    "menu": "Menü",
+    "sidebarDescription": "Navigationsbereich"
+  },
+  "login": {
+    "title": "Anmelden",
+    "description": "Bitte melden Sie sich bei Ihrem Konto an.",
+    "username": "Benutzername",
+    "password": "Passwort",
+    "remember": "Angemeldet bleiben",
+    "forgot": "Passwort vergessen?",
+    "signIn": "Anmelden",
+    "signingIn": "Anmeldung läuft...",
+    "success": "Anmeldung erfolgreich",
+    "failed": "Anmeldung fehlgeschlagen",
+    "welcome": "Willkommen zurück!",
+    "invalidCredentials": "Ungültiger Benutzername oder Passwort.",
+    "demoText": "Demo-Zugangsdaten (zum Ausfüllen klicken)"
+  },
+  "dashboard": {
+    "admin": {
+      "title": "Admin-Analyse"
+    },
+    "treasurer": {
+      "title": "Schatzmeister-Panel"
+    }
+  }
+}

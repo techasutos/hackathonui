@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "home": "ମୂଳ ପୃଷ୍ଠା",
+    "dashboard": "ଡ୍ୟାସବୋର୍ଡ",
+    "savings": "ଅଭିଞ୍ଜୟ",
+    "applyLoan": "ଧନ ଋଣ ପାଇଁ ଆବେଦନ କରନ୍ତୁ",
+    "loanApprovals": "Loan ଅନୁମୋଦନ",
+    "memberManagement": "ସଦସ୍ୟ ପରିଚାଳନା",
+    "groupManagement": "ଗୋଷ୍ଠୀ ପରିଚାଳନା",
+    "roleManagement": "ଭୂମିକା ପରିଚାଳନା",
+    "sdgImpact": "SDG ପ୍ରଭାବ",
+    "createPoll": "ଭୋଟ ସୃଷ୍ଟି କରନ୍ତୁ",
+    "login": "ଲଗଇନ୍",
+    "logout": "ଲଗଅଉଟ୍",
+    "menu": "ମେନୁ",
+    "sidebarDescription": "ନେଭିଗେସନ୍ ପ୍ୟାନେଲ୍"
+  },
+  "login": {
+    "title": "ସାଇନ୍ ଇନ୍",
+    "description": "ଦୟାକରି ଆପଣଙ୍କ ଖାତାକୁ ସାଇନ୍ ଇନ୍ କରନ୍ତୁ।",
+    "username": "ଉପଯୋଗକାରୀ ନାମ",
+    "password": "ପାସୱାର୍ଡ",
+    "remember": "ମୋତେ ମନେ ରଖନ୍ତୁ",
+    "forgot": "ପାସୱାର୍ଡ ଭୁଲିଗଲେ?",
+    "signIn": "ସାଇନ୍ ଇନ୍ କରନ୍ତୁ",
+    "signingIn": "ସାଇନ୍ ଇନ୍ ହେଉଛି...",
+    "success": "ଲଗଇନ୍ ସଫଳ",
+    "failed": "ଲଗଇନ୍ ବିଫଳ",
+    "welcome": "ପୁଣିଥରେ ସ୍ବାଗତ!",
+    "invalidCredentials": "ଅବୈଧ ଉପଯୋଗକାରୀ ନାମ କିମ୍ବା ପାସୱାର୍ଡ।",
+    "demoText": "ଡେମୋ ତଥ୍ୟ (ଭରିବା ପାଇଁ କ୍ଲିକ୍ କରନ୍ତୁ)"
+  },
+  "dashboard": {
+    "admin": {
+      "title": "ପ୍ରଶାସନିକ ବିଶ୍ଳେଷଣ"
+    },
+    "treasurer": {
+      "title": "ରାଜସ୍ୱ ପ୍ରଶାସକ ପ୍ୟାନେଲ୍"
+    }
+  }
+}

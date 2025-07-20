@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "savings": "Savings",
+    "applyLoan": "Apply for Loan",
+    "loanApprovals": "Loan Approvals",
+    "memberManagement": "Member Management",
+    "groupManagement": "Group Management",
+    "roleManagement": "Role Management",
+    "sdgImpact": "SDG Impact",
+    "createPoll": "Create Poll",
+    "login": "Login",
+    "logout": "Logout",
+    "menu": "Menu",
+    "sidebarDescription": "Navigation panel"
+  },
+  "login": {
+    "title": "Sign In",
+    "description": "Please sign in to your account.",
+    "username": "Username",
+    "password": "Password",
+    "remember": "Remember me",
+    "forgot": "Forgot password?",
+    "signIn": "Sign In",
+    "signingIn": "Signing In...",
+    "success": "Login Successful",
+    "failed": "Login Failed",
+    "welcome": "Welcome back!",
+    "invalidCredentials": "Invalid username or password.",
+    "demoText": "Demo Credentials (Click to fill)"
+  },
+  "dashboard": {
+    "admin": {
+      "title": "Admin Analytics"
+    },
+    "treasurer": {
+      "title": "Treasurer Panel"
+    }
+  }
+}
